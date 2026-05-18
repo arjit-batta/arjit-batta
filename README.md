@@ -17,13 +17,13 @@ intersection of AI, automation, and consumer behaviour.
 **Projects:**
 - 🧾 [M3 - My Monthly Money](https://simple-rupee-plan.lovable.app) — A mobile-first 
   personal budgeting PWA built for India. 250+ real transactions tracked. 
-  Adding AI features: voice expense entry and automated monthly summaries.
-- 🏠 Smart Home Automation Recommender *(in progress)* — An AI agent that suggests 
-  home automations based on device usage patterns. Built using Claude API + 
-  Chain-of-Thought prompting.
-- 🤖 JD Analyzer *(in progress)* — RAG-based agent that matches a job description 
-  to a candidate profile and outputs tailored interview angles.
-
+  AI-powered monthly summaries in progress.
+- 🪞 [Daily Debrief](https://github.com/arjit-batta/daily-debrief) *(in progress)* — 
+  A personal AI accountability agent. Evening check-in that tracks patterns across 
+  days and reflects back what you're avoiding. Built with Claude API + persistent memory.
+- 📊 Weekly Brief *(coming soon)* — Investment portfolio narrator. Weekly plain-English 
+  explanation of what moved, why, and what to think about next.
+  
 ## Connect
 [LinkedIn](https://linkedin.com/in/arjit-batta) · [Email](mailto:arjit.b94@gmail.com)
 
